@@ -18,6 +18,7 @@ SECRET_KEY=""
 3. Initialise and start the project
 ```
 sudo apt install npm
+npm install
 npm run start
 ```
 
